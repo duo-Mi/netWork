@@ -7,7 +7,7 @@
 					<Icon type="md-briefcase" size="55" color="#2db7f5" />
 					<h3 class="text-muted ml-2">企业网盘aaaa</h3>
 				</div>
-				<span class="text-muted small mt-3">企业级网盘解决方案bbbb</span>
+				<span class="text-muted small mt-3">企业级网盘解决方案ababa</span>
 			</div>
 			<Form ref="form" :label-width="0" :model="formItem" :rules="rules">
 				<FormItem prop="username">
